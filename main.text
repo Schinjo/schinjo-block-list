@@ -1,4 +1,8 @@
 #Bitch ass Samsung
+samsungcloudsolution.com
+lcprd2.samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+client.smartthings.com
 device-metrics-us.amazon.com
 samsungacr.com
 samsungcloudsolution.com
@@ -100,3 +104,11 @@ config.samsungads.com
 log-config.samsungacr.com
 ads.samsung.com
 events.samsungads.com
+
+#random shit
+pushy-prod-nlb3-2b8f94552a64bb5c.elb.us-east-1.amazonaws.com				
+nrdp.push.prod.netflix.com	
+push.prod.dradis.netflix.com	
+*.internal.dradis.netflix.com	
+(\.|^)nrdp-ixanycast-def\.ftl\.netflix\.com$	
+prod.cloud.dradis.netflix.com
